@@ -53,7 +53,7 @@ $ tsps --help
 ```
 
 ## GIF FTW!
-[tsps.gif](./tsps.gif)
+![tsps.gif](./tsps.gif)
 
 ## Motivation?
 
