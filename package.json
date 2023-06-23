@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "fractional": "^1.0.0",
-    "meow": "^3.4.2"
+    "meow": "^8.0.0"
   },
   "devDependencies": {
     "ava": "^0.3.0",
